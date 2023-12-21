@@ -1,5 +1,5 @@
 # Mobile Phone Price Analysis
-This Python project explores mobile phone prices using the Pandas library for data manipulation and Matplotlib for data visualization.
+This project explores mobile phone prices using the Pandas library for data manipulation and Matplotlib for data visualization.
 
 ## Usage
 1. Ensure you have Python installed on your system.
