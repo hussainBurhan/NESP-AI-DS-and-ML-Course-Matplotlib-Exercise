@@ -15,4 +15,4 @@ This project explores mobile phone prices using the Pandas library for data mani
 ![image](https://github.com/hussainBurhan/NESP-AI-DS-and-ML-Course-Matplotlib-Exercise/assets/144117030/857c3cbb-3dae-460c-8cf6-1205e232557b)
 
 ## Acknowledgements
-his program was created as part of the AI, DS and ML course offered by the National Emerging Skills Program (NESP).
+This program was created as part of the AI, DS and ML course offered by the National Emerging Skills Program (NESP).
